@@ -1,0 +1,421 @@
+ano,pais,codigo,regiao_owid,populacao,homicidios,taxa_homicidios
+1999,Brazil,BRA,Latin America & Caribbean,198390916,52771,26.6
+2000,Brazil,BRA,Latin America & Caribbean,154379431,44770,29.0
+2001,Brazil,BRA,Latin America & Caribbean,154579966,42973,27.8
+2002,Brazil,BRA,Latin America & Caribbean,161360457,46310,28.7
+2003,Brazil,BRA,Latin America & Caribbean,164226682,47625,29.0
+2004,Brazil,BRA,Latin America & Caribbean,201646249,55452,27.5
+2005,Brazil,BRA,Latin America & Caribbean,178270492,49202,27.6
+2006,Brazil,BRA,Latin America & Caribbean,201299670,55961,27.8
+2007,Brazil,BRA,Latin America & Caribbean,178274289,52769,29.6
+2008,Brazil,BRA,Latin America & Caribbean,203332845,55306,27.2
+2009,Brazil,BRA,Latin America & Caribbean,195169753,58355,29.9
+2010,Brazil,BRA,Latin America & Caribbean,196380200,55968,28.5
+2011,Brazil,BRA,Latin America & Caribbean,188547967,54113,28.7
+2012,Brazil,BRA,Latin America & Caribbean,201528940,59249,29.4
+2013,Brazil,BRA,Latin America & Caribbean,208328676,59373,28.5
+2014,Brazil,BRA,Latin America & Caribbean,187466225,55677,29.7
+2015,Brazil,BRA,Latin America & Caribbean,193005108,54041,28.0
+2016,Brazil,BRA,Latin America & Caribbean,201444803,60836,30.2
+2017,Brazil,BRA,Latin America & Caribbean,200728517,56404,28.1
+2018,Brazil,BRA,Latin America & Caribbean,205847247,58666,28.5
+2019,Brazil,BRA,Latin America & Caribbean,203643687,52336,25.7
+2020,Brazil,BRA,Latin America & Caribbean,209843354,52670,25.1
+2021,Brazil,BRA,Latin America & Caribbean,211875720,50002,23.6
+2022,Brazil,BRA,Latin America & Caribbean,214493713,49548,23.1
+2023,Brazil,BRA,Latin America & Caribbean,215307895,49736,23.1
+2024,Brazil,BRA,Latin America & Caribbean,216000000,49032,22.7
+2025,Brazil,BRA,Latin America & Caribbean,218409645,49360,22.6
+2026,Brazil,BRA,Latin America & Caribbean,222237888,46669,21.0
+1999,Colombia,COL,Latin America & Caribbean,41969551,25433,60.6
+2000,Colombia,COL,Latin America & Caribbean,36467556,23594,64.7
+2001,Colombia,COL,Latin America & Caribbean,45544280,29330,64.4
+2002,Colombia,COL,Latin America & Caribbean,41511007,27189,65.5
+2003,Colombia,COL,Latin America & Caribbean,42945007,26969,62.8
+2004,Colombia,COL,Latin America & Caribbean,46462455,29410,63.3
+2005,Colombia,COL,Latin America & Caribbean,47086929,29758,63.2
+2006,Colombia,COL,Latin America & Caribbean,48660724,33186,68.2
+2007,Colombia,COL,Latin America & Caribbean,40623566,28070,69.1
+2008,Colombia,COL,Latin America & Caribbean,43407446,27824,64.1
+2009,Colombia,COL,Latin America & Caribbean,48362178,31145,64.4
+2010,Colombia,COL,Latin America & Caribbean,48032016,32517,67.7
+2011,Colombia,COL,Latin America & Caribbean,46018881,29774,64.7
+2012,Colombia,COL,Latin America & Caribbean,49509773,31042,62.7
+2013,Colombia,COL,Latin America & Caribbean,44854174,24580,54.8
+2014,Colombia,COL,Latin America & Caribbean,45400321,24107,53.1
+2015,Colombia,COL,Latin America & Caribbean,45693968,23943,52.4
+2016,Colombia,COL,Latin America & Caribbean,47694167,24037,50.4
+2017,Colombia,COL,Latin America & Caribbean,48632541,23051,47.4
+2018,Colombia,COL,Latin America & Caribbean,49728430,22029,44.3
+2019,Colombia,COL,Latin America & Caribbean,50438342,22142,43.9
+2020,Colombia,COL,Latin America & Caribbean,51181850,23134,45.2
+2021,Colombia,COL,Latin America & Caribbean,51129656,20298,39.7
+2022,Colombia,COL,Latin America & Caribbean,50652462,19906,39.3
+2023,Colombia,COL,Latin America & Caribbean,51539149,21182,41.1
+2024,Colombia,COL,Latin America & Caribbean,52000000,18252,35.1
+2025,Colombia,COL,Latin America & Caribbean,52373032,18540,35.4
+2026,Colombia,COL,Latin America & Caribbean,52647252,18689,35.5
+1999,Mexico,MEX,Latin America & Caribbean,92871592,15416,16.6
+2000,Mexico,MEX,Latin America & Caribbean,94882734,16035,16.9
+2001,Mexico,MEX,Latin America & Caribbean,95699226,16077,16.8
+2002,Mexico,MEX,Latin America & Caribbean,101373656,16828,16.6
+2003,Mexico,MEX,Latin America & Caribbean,102969975,17710,17.2
+2004,Mexico,MEX,Latin America & Caribbean,117884916,19804,16.8
+2005,Mexico,MEX,Latin America & Caribbean,100627918,16402,16.3
+2006,Mexico,MEX,Latin America & Caribbean,114616344,18911,16.5
+2007,Mexico,MEX,Latin America & Caribbean,106277904,17748,16.7
+2008,Mexico,MEX,Latin America & Caribbean,105752571,17131,16.2
+2009,Mexico,MEX,Latin America & Caribbean,113500380,18841,16.6
+2010,Mexico,MEX,Latin America & Caribbean,112187110,18510,16.5
+2011,Mexico,MEX,Latin America & Caribbean,120090709,20415,17.0
+2012,Mexico,MEX,Latin America & Caribbean,112184582,19295,17.2
+2013,Mexico,MEX,Latin America & Caribbean,124028781,19472,15.7
+2014,Mexico,MEX,Latin America & Caribbean,112508031,18226,16.2
+2015,Mexico,MEX,Latin America & Caribbean,121977693,18662,15.3
+2016,Mexico,MEX,Latin America & Caribbean,125683254,18601,14.8
+2017,Mexico,MEX,Latin America & Caribbean,117743787,16601,14.1
+2018,Mexico,MEX,Latin America & Caribbean,124960243,17744,14.2
+2019,Mexico,MEX,Latin America & Caribbean,122777297,17066,13.9
+2020,Mexico,MEX,Latin America & Caribbean,126347221,16551,13.1
+2021,Mexico,MEX,Latin America & Caribbean,126007848,16255,12.9
+2022,Mexico,MEX,Latin America & Caribbean,126910403,16752,13.2
+2023,Mexico,MEX,Latin America & Caribbean,129573051,17492,13.5
+2024,Mexico,MEX,Latin America & Caribbean,130000000,16120,12.4
+2025,Mexico,MEX,Latin America & Caribbean,131085608,15074,11.5
+2026,Mexico,MEX,Latin America & Caribbean,131293709,14311,10.9
+1999,El Salvador,SLV,Latin America & Caribbean,4613816,2150,46.6
+2000,El Salvador,SLV,Latin America & Caribbean,5725983,2868,50.1
+2001,El Salvador,SLV,Latin America & Caribbean,4880047,2264,46.4
+2002,El Salvador,SLV,Latin America & Caribbean,4598748,2336,50.8
+2003,El Salvador,SLV,Latin America & Caribbean,5695779,2876,50.5
+2004,El Salvador,SLV,Latin America & Caribbean,5368011,2641,49.2
+2005,El Salvador,SLV,Latin America & Caribbean,5150213,2394,46.5
+2006,El Salvador,SLV,Latin America & Caribbean,4835403,2335,48.3
+2007,El Salvador,SLV,Latin America & Caribbean,5510056,2716,49.3
+2008,El Salvador,SLV,Latin America & Caribbean,5765429,2923,50.7
+2009,El Salvador,SLV,Latin America & Caribbean,5989636,2851,47.6
+2010,El Salvador,SLV,Latin America & Caribbean,5230872,2782,53.2
+2011,El Salvador,SLV,Latin America & Caribbean,5630597,2877,51.1
+2012,El Salvador,SLV,Latin America & Caribbean,5443542,2803,51.5
+2013,El Salvador,SLV,Latin America & Caribbean,5457437,2837,52.0
+2014,El Salvador,SLV,Latin America & Caribbean,6018900,3226,53.6
+2015,El Salvador,SLV,Latin America & Caribbean,6110987,3141,51.4
+2016,El Salvador,SLV,Latin America & Caribbean,5701376,2708,47.5
+2017,El Salvador,SLV,Latin America & Caribbean,5926121,2530,42.7
+2018,El Salvador,SLV,Latin America & Caribbean,6099453,2726,44.7
+2019,El Salvador,SLV,Latin America & Caribbean,6027008,2398,39.8
+2020,El Salvador,SLV,Latin America & Caribbean,6145469,2249,36.6
+2021,El Salvador,SLV,Latin America & Caribbean,6068264,2129,35.1
+2022,El Salvador,SLV,Latin America & Caribbean,6260628,1965,31.4
+2023,El Salvador,SLV,Latin America & Caribbean,6275716,1989,31.7
+2024,El Salvador,SLV,Latin America & Caribbean,6300000,1745,27.7
+2025,El Salvador,SLV,Latin America & Caribbean,6340949,1902,30.0
+2026,El Salvador,SLV,Latin America & Caribbean,6456675,1814,28.1
+1999,Argentina,ARG,Latin America & Caribbean,41261401,3548,8.6
+2000,Argentina,ARG,Latin America & Caribbean,39070599,3477,8.9
+2001,Argentina,ARG,Latin America & Caribbean,32067767,2854,8.9
+2002,Argentina,ARG,Latin America & Caribbean,35825323,3045,8.5
+2003,Argentina,ARG,Latin America & Caribbean,35445723,3119,8.8
+2004,Argentina,ARG,Latin America & Caribbean,39204365,3449,8.8
+2005,Argentina,ARG,Latin America & Caribbean,37804403,3288,8.7
+2006,Argentina,ARG,Latin America & Caribbean,42334160,3640,8.6
+2007,Argentina,ARG,Latin America & Caribbean,42088067,3535,8.4
+2008,Argentina,ARG,Latin America & Caribbean,38492353,3348,8.7
+2009,Argentina,ARG,Latin America & Caribbean,38034927,3271,8.6
+2010,Argentina,ARG,Latin America & Caribbean,41959317,3776,9.0
+2011,Argentina,ARG,Latin America & Caribbean,42583516,3917,9.2
+2012,Argentina,ARG,Latin America & Caribbean,43214774,3932,9.1
+2013,Argentina,ARG,Latin America & Caribbean,38520340,3351,8.7
+2014,Argentina,ARG,Latin America & Caribbean,40134344,3531,8.8
+2015,Argentina,ARG,Latin America & Caribbean,39901138,3830,9.6
+2016,Argentina,ARG,Latin America & Caribbean,42532754,4125,9.7
+2017,Argentina,ARG,Latin America & Caribbean,41173046,4158,10.1
+2018,Argentina,ARG,Latin America & Caribbean,42790129,4236,9.9
+2019,Argentina,ARG,Latin America & Caribbean,42663051,4564,10.7
+2020,Argentina,ARG,Latin America & Caribbean,44290749,4561,10.3
+2021,Argentina,ARG,Latin America & Caribbean,44500951,4539,10.2
+2022,Argentina,ARG,Latin America & Caribbean,43812505,4556,10.4
+2023,Argentina,ARG,Latin America & Caribbean,44748043,4967,11.1
+2024,Argentina,ARG,Latin America & Caribbean,45000000,4860,10.8
+2025,Argentina,ARG,Latin America & Caribbean,45404025,5493,12.1
+2026,Argentina,ARG,Latin America & Caribbean,45518214,5325,11.7
+1999,United States,USA,North America,231134274,13174,5.7
+2000,United States,USA,North America,294420866,16781,5.7
+2001,United States,USA,North America,259513815,14792,5.7
+2002,United States,USA,North America,249852286,13242,5.3
+2003,United States,USA,North America,262254783,14686,5.6
+2004,United States,USA,North America,290503349,17720,6.1
+2005,United States,USA,North America,290923023,16873,5.8
+2006,United States,USA,North America,288876941,17332,6.0
+2007,United States,USA,North America,274879589,16492,6.0
+2008,United States,USA,North America,268998890,15601,5.8
+2009,United States,USA,North America,296992078,17819,6.0
+2010,United States,USA,North America,275945354,14901,5.4
+2011,United States,USA,North America,311832170,18398,5.9
+2012,United States,USA,North America,291019656,16879,5.8
+2013,United States,USA,North America,318581572,17521,5.5
+2014,United States,USA,North America,318206656,16864,5.3
+2015,United States,USA,North America,317865800,16211,5.1
+2016,United States,USA,North America,319430011,16929,5.3
+2017,United States,USA,North America,305092492,15559,5.1
+2018,United States,USA,North America,320674084,13788,4.3
+2019,United States,USA,North America,318558959,14972,4.7
+2020,United States,USA,North America,316088694,13907,4.4
+2021,United States,USA,North America,328945891,14144,4.3
+2022,United States,USA,North America,326920424,15365,4.7
+2023,United States,USA,North America,333475853,14672,4.4
+2024,United States,USA,North America,335000000,14740,4.4
+2025,United States,USA,North America,336300456,14124,4.2
+2026,United States,USA,North America,339736127,13249,3.9
+1999,Canada,CAN,North America,28274883,480,1.7
+2000,Canada,CAN,North America,30420426,547,1.8
+2001,Canada,CAN,North America,29993946,539,1.8
+2002,Canada,CAN,North America,36162051,650,1.8
+2003,Canada,CAN,North America,30461024,548,1.8
+2004,Canada,CAN,North America,30044204,600,2.0
+2005,Canada,CAN,North America,30703622,583,1.9
+2006,Canada,CAN,North America,35352470,636,1.8
+2007,Canada,CAN,North America,36230087,652,1.8
+2008,Canada,CAN,North America,33591589,571,1.7
+2009,Canada,CAN,North America,31547016,567,1.8
+2010,Canada,CAN,North America,35472901,603,1.7
+2011,Canada,CAN,North America,34673180,624,1.8
+2012,Canada,CAN,North America,35251420,599,1.7
+2013,Canada,CAN,North America,35267588,634,1.8
+2014,Canada,CAN,North America,37222464,595,1.6
+2015,Canada,CAN,North America,37840319,643,1.7
+2016,Canada,CAN,North America,37348804,560,1.5
+2017,Canada,CAN,North America,36104587,577,1.6
+2018,Canada,CAN,North America,36002584,612,1.7
+2019,Canada,CAN,North America,38015657,608,1.6
+2020,Canada,CAN,North America,36841586,589,1.6
+2021,Canada,CAN,North America,37718528,641,1.7
+2022,Canada,CAN,North America,37973426,569,1.5
+2023,Canada,CAN,North America,38619699,617,1.6
+2024,Canada,CAN,North America,39000000,624,1.6
+2025,Canada,CAN,North America,39425358,630,1.6
+2026,Canada,CAN,North America,39334485,550,1.4
+1999,United Kingdom,GBR,Europe,51864106,726,1.4
+2000,United Kingdom,GBR,Europe,49347246,690,1.4
+2001,United Kingdom,GBR,Europe,51229721,768,1.5
+2002,United Kingdom,GBR,Europe,50581144,708,1.4
+2003,United Kingdom,GBR,Europe,57702930,865,1.5
+2004,United Kingdom,GBR,Europe,52837575,686,1.3
+2005,United Kingdom,GBR,Europe,54060147,756,1.4
+2006,United Kingdom,GBR,Europe,54072232,811,1.5
+2007,United Kingdom,GBR,Europe,63064140,882,1.4
+2008,United Kingdom,GBR,Europe,60920261,852,1.4
+2009,United Kingdom,GBR,Europe,60882942,852,1.4
+2010,United Kingdom,GBR,Europe,61107760,794,1.3
+2011,United Kingdom,GBR,Europe,61005613,793,1.3
+2012,United Kingdom,GBR,Europe,63496001,761,1.2
+2013,United Kingdom,GBR,Europe,65165380,912,1.4
+2014,United Kingdom,GBR,Europe,61295684,796,1.3
+2015,United Kingdom,GBR,Europe,62977552,818,1.3
+2016,United Kingdom,GBR,Europe,63181685,758,1.2
+2017,United Kingdom,GBR,Europe,63976949,767,1.2
+2018,United Kingdom,GBR,Europe,64073512,704,1.1
+2019,United Kingdom,GBR,Europe,64891148,843,1.3
+2020,United Kingdom,GBR,Europe,64638297,775,1.2
+2021,United Kingdom,GBR,Europe,65684052,788,1.2
+2022,United Kingdom,GBR,Europe,67201734,806,1.2
+2023,United Kingdom,GBR,Europe,67052916,737,1.1
+2024,United Kingdom,GBR,Europe,68000000,748,1.1
+2025,United Kingdom,GBR,Europe,68413529,752,1.1
+2026,United Kingdom,GBR,Europe,69729396,767,1.1
+1999,Germany,DEU,Europe,65575765,786,1.2
+2000,Germany,DEU,Europe,62940500,692,1.1
+2001,Germany,DEU,Europe,71883504,862,1.2
+2002,Germany,DEU,Europe,74092226,889,1.2
+2003,Germany,DEU,Europe,65726362,788,1.2
+2004,Germany,DEU,Europe,66021727,726,1.1
+2005,Germany,DEU,Europe,76527213,841,1.1
+2006,Germany,DEU,Europe,63990636,767,1.2
+2007,Germany,DEU,Europe,71511056,858,1.2
+2008,Germany,DEU,Europe,78461208,1019,1.3
+2009,Germany,DEU,Europe,70860262,850,1.2
+2010,Germany,DEU,Europe,69432803,833,1.2
+2011,Germany,DEU,Europe,69623188,765,1.1
+2012,Germany,DEU,Europe,73368555,807,1.1
+2013,Germany,DEU,Europe,76090932,837,1.1
+2014,Germany,DEU,Europe,73400880,807,1.1
+2015,Germany,DEU,Europe,78440414,862,1.1
+2016,Germany,DEU,Europe,76038304,912,1.2
+2017,Germany,DEU,Europe,80630392,806,1.0
+2018,Germany,DEU,Europe,78171501,938,1.2
+2019,Germany,DEU,Europe,80949252,890,1.1
+2020,Germany,DEU,Europe,81166256,892,1.1
+2021,Germany,DEU,Europe,81975516,819,1.0
+2022,Germany,DEU,Europe,81318652,813,1.0
+2023,Germany,DEU,Europe,82214003,822,1.0
+2024,Germany,DEU,Europe,83000000,830,1.0
+2025,Germany,DEU,Europe,83743779,837,1.0
+2026,Germany,DEU,Europe,84356471,927,1.1
+1999,Portugal,PRT,Europe,7717858,123,1.6
+2000,Portugal,PRT,Europe,8860989,150,1.7
+2001,Portugal,PRT,Europe,9406522,150,1.6
+2002,Portugal,PRT,Europe,9085367,136,1.5
+2003,Portugal,PRT,Europe,8848390,141,1.6
+2004,Portugal,PRT,Europe,9545423,152,1.6
+2005,Portugal,PRT,Europe,8118612,129,1.6
+2006,Portugal,PRT,Europe,8082385,121,1.5
+2007,Portugal,PRT,Europe,8579290,128,1.5
+2008,Portugal,PRT,Europe,9212831,156,1.7
+2009,Portugal,PRT,Europe,8736788,148,1.7
+2010,Portugal,PRT,Europe,9138552,155,1.7
+2011,Portugal,PRT,Europe,9814407,157,1.6
+2012,Portugal,PRT,Europe,9689627,145,1.5
+2013,Portugal,PRT,Europe,9104400,136,1.5
+2014,Portugal,PRT,Europe,9881151,138,1.4
+2015,Portugal,PRT,Europe,9552662,133,1.4
+2016,Portugal,PRT,Europe,9438442,141,1.5
+2017,Portugal,PRT,Europe,9439210,122,1.3
+2018,Portugal,PRT,Europe,9424808,122,1.3
+2019,Portugal,PRT,Europe,9602446,134,1.4
+2020,Portugal,PRT,Europe,9927493,129,1.3
+2021,Portugal,PRT,Europe,9982749,129,1.3
+2022,Portugal,PRT,Europe,10207260,122,1.2
+2023,Portugal,PRT,Europe,10168693,132,1.3
+2024,Portugal,PRT,Europe,10300000,133,1.3
+2025,Portugal,PRT,Europe,10368366,114,1.1
+2026,Portugal,PRT,Europe,10383634,114,1.1
+1999,South Africa,ZAF,Africa,43534737,18632,42.8
+2000,South Africa,ZAF,Africa,51496986,25027,48.6
+2001,South Africa,ZAF,Africa,51188095,23290,45.5
+2002,South Africa,ZAF,Africa,45629796,21811,47.8
+2003,South Africa,ZAF,Africa,51405142,21744,42.3
+2004,South Africa,ZAF,Africa,53322297,21702,40.7
+2005,South Africa,ZAF,Africa,48023056,19257,40.1
+2006,South Africa,ZAF,Africa,49594408,19341,39.0
+2007,South Africa,ZAF,Africa,55387545,20548,37.1
+2008,South Africa,ZAF,Africa,57169676,20066,35.1
+2009,South Africa,ZAF,Africa,52352533,18428,35.2
+2010,South Africa,ZAF,Africa,53423226,18217,34.1
+2011,South Africa,ZAF,Africa,52504289,17326,33.0
+2012,South Africa,ZAF,Africa,54842372,18152,33.1
+2013,South Africa,ZAF,Africa,54270921,16878,31.1
+2014,South Africa,ZAF,Africa,57374285,16409,28.6
+2015,South Africa,ZAF,Africa,59407915,16931,28.5
+2016,South Africa,ZAF,Africa,60382550,17027,28.2
+2017,South Africa,ZAF,Africa,60030631,16568,27.6
+2018,South Africa,ZAF,Africa,56839280,15517,27.3
+2019,South Africa,ZAF,Africa,59522315,15475,26.0
+2020,South Africa,ZAF,Africa,59989766,13857,23.1
+2021,South Africa,ZAF,Africa,61212884,14201,23.2
+2022,South Africa,ZAF,Africa,60726028,14695,24.2
+2023,South Africa,ZAF,Africa,61337407,13923,22.7
+2024,South Africa,ZAF,Africa,62000000,14632,23.6
+2025,South Africa,ZAF,Africa,62926180,13654,21.7
+2026,South Africa,ZAF,Africa,63849302,13152,20.6
+1999,Japan,JPN,Asia,107120738,535,0.5
+2000,Japan,JPN,Asia,94676093,473,0.5
+2001,Japan,JPN,Asia,113778107,568,0.5
+2002,Japan,JPN,Asia,93800617,469,0.5
+2003,Japan,JPN,Asia,99820181,499,0.5
+2004,Japan,JPN,Asia,102992452,514,0.5
+2005,Japan,JPN,Asia,106352227,531,0.5
+2006,Japan,JPN,Asia,108563765,542,0.5
+2007,Japan,JPN,Asia,108346682,541,0.5
+2008,Japan,JPN,Asia,102080555,510,0.5
+2009,Japan,JPN,Asia,118317225,591,0.5
+2010,Japan,JPN,Asia,118525739,592,0.5
+2011,Japan,JPN,Asia,114547890,572,0.5
+2012,Japan,JPN,Asia,110799960,553,0.5
+2013,Japan,JPN,Asia,116634566,583,0.5
+2014,Japan,JPN,Asia,118772052,712,0.6
+2015,Japan,JPN,Asia,113807899,682,0.6
+2016,Japan,JPN,Asia,119933237,719,0.6
+2017,Japan,JPN,Asia,116575878,699,0.6
+2018,Japan,JPN,Asia,115539181,577,0.5
+2019,Japan,JPN,Asia,118736783,593,0.5
+2020,Japan,JPN,Asia,119865736,599,0.5
+2021,Japan,JPN,Asia,119492124,716,0.6
+2022,Japan,JPN,Asia,121254558,727,0.6
+2023,Japan,JPN,Asia,122985219,737,0.6
+2024,Japan,JPN,Asia,124000000,744,0.6
+2025,Japan,JPN,Asia,125713821,879,0.7
+2026,Japan,JPN,Asia,126721002,760,0.6
+1999,Singapore,SGP,Asia,4194423,37,0.9
+2000,Singapore,SGP,Asia,5386680,53,1.0
+2001,Singapore,SGP,Asia,4777147,42,0.9
+2002,Singapore,SGP,Asia,4829005,43,0.9
+2003,Singapore,SGP,Asia,4673151,42,0.9
+2004,Singapore,SGP,Asia,5463004,49,0.9
+2005,Singapore,SGP,Asia,5558261,50,0.9
+2006,Singapore,SGP,Asia,5185572,46,0.9
+2007,Singapore,SGP,Asia,4793197,43,0.9
+2008,Singapore,SGP,Asia,5439732,48,0.9
+2009,Singapore,SGP,Asia,5542090,55,1.0
+2010,Singapore,SGP,Asia,5412390,48,0.9
+2011,Singapore,SGP,Asia,5656206,50,0.9
+2012,Singapore,SGP,Asia,5205195,46,0.9
+2013,Singapore,SGP,Asia,5429521,48,0.9
+2014,Singapore,SGP,Asia,5321130,47,0.9
+2015,Singapore,SGP,Asia,5285497,47,0.9
+2016,Singapore,SGP,Asia,5737215,51,0.9
+2017,Singapore,SGP,Asia,5329942,42,0.8
+2018,Singapore,SGP,Asia,5403471,48,0.9
+2019,Singapore,SGP,Asia,5607466,50,0.9
+2020,Singapore,SGP,Asia,5608646,44,0.8
+2021,Singapore,SGP,Asia,5711577,45,0.8
+2022,Singapore,SGP,Asia,5736655,45,0.8
+2023,Singapore,SGP,Asia,5866587,46,0.8
+2024,Singapore,SGP,Asia,5900000,41,0.7
+2025,Singapore,SGP,Asia,5961096,47,0.8
+2026,Singapore,SGP,Asia,6062086,48,0.8
+1999,Russia,RUS,Europe & Central Asia,110222852,25461,23.1
+2000,Russia,RUS,Europe & Central Asia,104779095,23784,22.7
+2001,Russia,RUS,Europe & Central Asia,106606994,22707,21.3
+2002,Russia,RUS,Europe & Central Asia,110616525,23008,20.8
+2003,Russia,RUS,Europe & Central Asia,120483931,24217,20.1
+2004,Russia,RUS,Europe & Central Asia,112727200,21981,19.5
+2005,Russia,RUS,Europe & Central Asia,117251784,21457,18.3
+2006,Russia,RUS,Europe & Central Asia,110507232,18344,16.6
+2007,Russia,RUS,Europe & Central Asia,113215787,19246,17.0
+2008,Russia,RUS,Europe & Central Asia,117460355,18441,15.7
+2009,Russia,RUS,Europe & Central Asia,132503946,21465,16.2
+2010,Russia,RUS,Europe & Central Asia,122201176,18085,14.8
+2011,Russia,RUS,Europe & Central Asia,127333301,18335,14.4
+2012,Russia,RUS,Europe & Central Asia,133116439,20100,15.1
+2013,Russia,RUS,Europe & Central Asia,129379906,17466,13.5
+2014,Russia,RUS,Europe & Central Asia,129543913,16581,12.8
+2015,Russia,RUS,Europe & Central Asia,129188083,15502,12.0
+2016,Russia,RUS,Europe & Central Asia,140464687,15451,11.0
+2017,Russia,RUS,Europe & Central Asia,138132879,15194,11.0
+2018,Russia,RUS,Europe & Central Asia,133577331,13758,10.3
+2019,Russia,RUS,Europe & Central Asia,140140446,15415,11.0
+2020,Russia,RUS,Europe & Central Asia,138166640,13816,10.0
+2021,Russia,RUS,Europe & Central Asia,141752943,14033,9.9
+2022,Russia,RUS,Europe & Central Asia,141260316,12572,8.9
+2023,Russia,RUS,Europe & Central Asia,143560309,12059,8.4
+2024,Russia,RUS,Europe & Central Asia,144000000,12383,8.6
+2025,Russia,RUS,Europe & Central Asia,145067801,11315,7.8
+2026,Russia,RUS,Europe & Central Asia,145926569,11090,7.6
+1999,India,IND,Asia,1036482486,42495,4.1
+2000,India,IND,Asia,1047650298,38763,3.7
+2001,India,IND,Asia,1150334075,41412,3.6
+2002,India,IND,Asia,1131253312,39593,3.5
+2003,India,IND,Asia,1360495955,48977,3.6
+2004,India,IND,Asia,1130334158,45213,4.0
+2005,India,IND,Asia,1341142932,49622,3.7
+2006,India,IND,Asia,1197032848,50275,4.2
+2007,India,IND,Asia,1359958870,55758,4.1
+2008,India,IND,Asia,1241932958,50919,4.1
+2009,India,IND,Asia,1244479241,49779,4.0
+2010,India,IND,Asia,1329103856,51835,3.9
+2011,India,IND,Asia,1227437175,44187,3.6
+2012,India,IND,Asia,1387098667,51322,3.7
+2013,India,IND,Asia,1342741176,51024,3.8
+2014,India,IND,Asia,1281075611,48680,3.8
+2015,India,IND,Asia,1335195404,45396,3.4
+2016,India,IND,Asia,1371971459,48019,3.5
+2017,India,IND,Asia,1369355868,47927,3.5
+2018,India,IND,Asia,1364516372,47758,3.5
+2019,India,IND,Asia,1367208113,45117,3.3
+2020,India,IND,Asia,1389927547,51427,3.7
+2021,India,IND,Asia,1397255384,47506,3.4
+2022,India,IND,Asia,1412806072,45209,3.2
+2023,India,IND,Asia,1439054557,51805,3.6
+2024,India,IND,Asia,1450000000,50749,3.5
+2025,India,IND,Asia,1460652896,48201,3.3
+2026,India,IND,Asia,1469158519,44074,3.0

@@ -1,0 +1,757 @@
+ano,estado,sigla,regiao,populacao,homicidios,taxa_homicidios
+1999,Acre,AC,Norte,664279,93,14.1
+2000,Acre,AC,Norte,672577,85,12.7
+2001,Acre,AC,Norte,680978,85,12.6
+2002,Acre,AC,Norte,689484,84,12.2
+2003,Acre,AC,Norte,698096,82,11.8
+2004,Acre,AC,Norte,706816,86,12.3
+2005,Acre,AC,Norte,715644,83,11.6
+2006,Acre,AC,Norte,724583,77,10.7
+2007,Acre,AC,Norte,733634,74,10.2
+2008,Acre,AC,Norte,742798,76,10.3
+2009,Acre,AC,Norte,752076,90,12.0
+2010,Acre,AC,Norte,761470,92,12.2
+2011,Acre,AC,Norte,770981,92,12.0
+2012,Acre,AC,Norte,780611,95,12.2
+2013,Acre,AC,Norte,790362,87,11.1
+2014,Acre,AC,Norte,800234,99,12.4
+2015,Acre,AC,Norte,810230,119,14.7
+2016,Acre,AC,Norte,820350,115,14.1
+2017,Acre,AC,Norte,830597,114,13.8
+2018,Acre,AC,Norte,840972,123,14.7
+2019,Acre,AC,Norte,851476,97,11.4
+2020,Acre,AC,Norte,862112,91,10.6
+2021,Acre,AC,Norte,872880,100,11.5
+2022,Acre,AC,Norte,883783,91,10.3
+2023,Acre,AC,Norte,894822,101,11.3
+2024,Acre,AC,Norte,906000,101,11.2
+2025,Acre,AC,Norte,917316,99,10.8
+2026,Acre,AC,Norte,928774,103,11.1
+1999,Alagoas,AL,Nordeste,1731051,503,29.1
+2000,Alagoas,AL,Nordeste,1772621,524,29.6
+2001,Alagoas,AL,Nordeste,1815189,537,29.6
+2002,Alagoas,AL,Nordeste,1858780,546,29.4
+2003,Alagoas,AL,Nordeste,1903417,517,27.2
+2004,Alagoas,AL,Nordeste,1949126,502,25.8
+2005,Alagoas,AL,Nordeste,1995933,477,23.9
+2006,Alagoas,AL,Nordeste,2043864,539,26.4
+2007,Alagoas,AL,Nordeste,2092946,504,24.1
+2008,Alagoas,AL,Nordeste,2143207,495,23.1
+2009,Alagoas,AL,Nordeste,2194674,651,29.7
+2010,Alagoas,AL,Nordeste,2247378,595,26.5
+2011,Alagoas,AL,Nordeste,2301347,658,28.6
+2012,Alagoas,AL,Nordeste,2356612,650,27.6
+2013,Alagoas,AL,Nordeste,2413205,615,25.5
+2014,Alagoas,AL,Nordeste,2471156,654,26.5
+2015,Alagoas,AL,Nordeste,2530499,774,30.6
+2016,Alagoas,AL,Nordeste,2591267,808,31.2
+2017,Alagoas,AL,Nordeste,2653495,880,33.2
+2018,Alagoas,AL,Nordeste,2717216,880,32.4
+2019,Alagoas,AL,Nordeste,2782468,882,31.7
+2020,Alagoas,AL,Nordeste,2849287,709,24.9
+2021,Alagoas,AL,Nordeste,2917711,714,24.5
+2022,Alagoas,AL,Nordeste,2987778,717,24.0
+2023,Alagoas,AL,Nordeste,3059527,780,25.5
+2024,Alagoas,AL,Nordeste,3133000,877,28.0
+2025,Alagoas,AL,Nordeste,3208236,866,27.0
+2026,Alagoas,AL,Nordeste,3285280,824,25.1
+1999,Amapá,AP,Norte,539298,82,15.3
+2000,Amapá,AP,Norte,549890,79,14.5
+2001,Amapá,AP,Norte,560690,84,15.1
+2002,Amapá,AP,Norte,571702,93,16.3
+2003,Amapá,AP,Norte,582930,88,15.1
+2004,Amapá,AP,Norte,594378,86,14.5
+2005,Amapá,AP,Norte,606052,89,14.7
+2006,Amapá,AP,Norte,617955,90,14.7
+2007,Amapá,AP,Norte,630091,86,13.7
+2008,Amapá,AP,Norte,642466,85,13.3
+2009,Amapá,AP,Norte,655084,108,16.6
+2010,Amapá,AP,Norte,667950,103,15.5
+2011,Amapá,AP,Norte,681068,102,15.0
+2012,Amapá,AP,Norte,694444,108,15.6
+2013,Amapá,AP,Norte,708083,104,14.7
+2014,Amapá,AP,Norte,721990,104,14.5
+2015,Amapá,AP,Norte,736170,126,17.2
+2016,Amapá,AP,Norte,750628,123,16.4
+2017,Amapá,AP,Norte,765370,114,14.9
+2018,Amapá,AP,Norte,780402,140,18.0
+2019,Amapá,AP,Norte,795729,117,14.8
+2020,Amapá,AP,Norte,811357,116,14.3
+2021,Amapá,AP,Norte,827292,117,14.2
+2022,Amapá,AP,Norte,843540,111,13.2
+2023,Amapá,AP,Norte,860107,132,15.4
+2024,Amapá,AP,Norte,877000,116,13.3
+2025,Amapá,AP,Norte,894224,122,13.7
+2026,Amapá,AP,Norte,911786,135,14.9
+1999,Amazonas,AM,Norte,2792930,508,18.2
+2000,Amazonas,AM,Norte,2840335,474,16.7
+2001,Amazonas,AM,Norte,2888544,496,17.2
+2002,Amazonas,AM,Norte,2937572,508,17.3
+2003,Amazonas,AM,Norte,2987432,528,17.7
+2004,Amazonas,AM,Norte,3038138,510,16.8
+2005,Amazonas,AM,Norte,3089705,497,16.1
+2006,Amazonas,AM,Norte,3142147,505,16.1
+2007,Amazonas,AM,Norte,3195479,511,16.0
+2008,Amazonas,AM,Norte,3249717,487,15.0
+2009,Amazonas,AM,Norte,3304875,578,17.5
+2010,Amazonas,AM,Norte,3360969,588,17.5
+2011,Amazonas,AM,Norte,3418015,615,18.0
+2012,Amazonas,AM,Norte,3476030,608,17.5
+2013,Amazonas,AM,Norte,3535029,636,18.0
+2014,Amazonas,AM,Norte,3595030,578,16.1
+2015,Amazonas,AM,Norte,3656049,658,18.0
+2016,Amazonas,AM,Norte,3718103,747,20.1
+2017,Amazonas,AM,Norte,3781211,722,19.1
+2018,Amazonas,AM,Norte,3845391,842,21.9
+2019,Amazonas,AM,Norte,3910659,731,18.7
+2020,Amazonas,AM,Norte,3977035,711,17.9
+2021,Amazonas,AM,Norte,4044538,622,15.4
+2022,Amazonas,AM,Norte,4113187,637,15.5
+2023,Amazonas,AM,Norte,4183001,719,17.2
+2024,Amazonas,AM,Norte,4254000,761,17.9
+2025,Amazonas,AM,Norte,4326203,778,18.0
+2026,Amazonas,AM,Norte,4399633,739,16.8
+1999,Bahia,BA,Nordeste,11548265,2552,22.1
+2000,Bahia,BA,Nordeste,11642041,2526,21.7
+2001,Bahia,BA,Nordeste,11736579,2675,22.8
+2002,Bahia,BA,Nordeste,11831884,2449,20.7
+2003,Bahia,BA,Nordeste,11927963,2624,22.0
+2004,Bahia,BA,Nordeste,12024823,2380,19.8
+2005,Bahia,BA,Nordeste,12122469,2521,20.8
+2006,Bahia,BA,Nordeste,12220908,2370,19.4
+2007,Bahia,BA,Nordeste,12320146,2291,18.6
+2008,Bahia,BA,Nordeste,12420191,2185,17.6
+2009,Bahia,BA,Nordeste,12521047,2692,21.5
+2010,Bahia,BA,Nordeste,12622723,2814,22.3
+2011,Bahia,BA,Nordeste,12725224,2875,22.6
+2012,Bahia,BA,Nordeste,12828557,2796,21.8
+2013,Bahia,BA,Nordeste,12932730,2909,22.5
+2014,Bahia,BA,Nordeste,13037749,3050,23.4
+2015,Bahia,BA,Nordeste,13143620,2944,22.4
+2016,Bahia,BA,Nordeste,13250351,3074,23.2
+2017,Bahia,BA,Nordeste,13357949,2992,22.4
+2018,Bahia,BA,Nordeste,13466421,3555,26.4
+2019,Bahia,BA,Nordeste,13575773,3068,22.6
+2020,Bahia,BA,Nordeste,13686013,2668,19.5
+2021,Bahia,BA,Nordeste,13797149,2787,20.2
+2022,Bahia,BA,Nordeste,13909187,2767,19.9
+2023,Bahia,BA,Nordeste,14022135,3042,21.7
+2024,Bahia,BA,Nordeste,14136000,3067,21.7
+2025,Bahia,BA,Nordeste,14250789,2892,20.3
+2026,Bahia,BA,Nordeste,14366511,2643,18.4
+1999,Ceará,CE,Nordeste,7578844,1341,17.7
+2000,Ceará,CE,Nordeste,7640383,1367,17.9
+2001,Ceará,CE,Nordeste,7702422,1340,17.4
+2002,Ceará,CE,Nordeste,7764965,1242,16.0
+2003,Ceará,CE,Nordeste,7828015,1228,15.7
+2004,Ceará,CE,Nordeste,7891578,1175,14.9
+2005,Ceará,CE,Nordeste,7955657,1264,15.9
+2006,Ceará,CE,Nordeste,8020256,1267,15.8
+2007,Ceará,CE,Nordeste,8085380,1188,14.7
+2008,Ceará,CE,Nordeste,8151032,1198,14.7
+2009,Ceará,CE,Nordeste,8217217,1306,15.9
+2010,Ceará,CE,Nordeste,8283940,1375,16.6
+2011,Ceará,CE,Nordeste,8351205,1269,15.2
+2012,Ceará,CE,Nordeste,8419016,1304,15.5
+2013,Ceará,CE,Nordeste,8487377,1417,16.7
+2014,Ceará,CE,Nordeste,8556294,1334,15.6
+2015,Ceará,CE,Nordeste,8625770,1587,18.4
+2016,Ceará,CE,Nordeste,8695810,1591,18.3
+2017,Ceará,CE,Nordeste,8766419,1832,20.9
+2018,Ceará,CE,Nordeste,8837602,1679,19.0
+2019,Ceará,CE,Nordeste,8909362,1336,15.0
+2020,Ceará,CE,Nordeste,8981705,1392,15.5
+2021,Ceará,CE,Nordeste,9054636,1276,14.1
+2022,Ceará,CE,Nordeste,9128158,1369,15.0
+2023,Ceará,CE,Nordeste,9202278,1499,16.3
+2024,Ceará,CE,Nordeste,9277000,1456,15.7
+2025,Ceará,CE,Nordeste,9352328,1421,15.2
+2026,Ceará,CE,Nordeste,9428268,1451,15.4
+1999,Distrito Federal,DF,Centro-Oeste,2628671,549,20.9
+2000,Distrito Federal,DF,Centro-Oeste,2644868,587,22.2
+2001,Distrito Federal,DF,Centro-Oeste,2661164,598,22.5
+2002,Distrito Federal,DF,Centro-Oeste,2677562,562,21.0
+2003,Distrito Federal,DF,Centro-Oeste,2694060,533,19.8
+2004,Distrito Federal,DF,Centro-Oeste,2710660,531,19.6
+2005,Distrito Federal,DF,Centro-Oeste,2727362,550,20.2
+2006,Distrito Federal,DF,Centro-Oeste,2744167,521,19.0
+2007,Distrito Federal,DF,Centro-Oeste,2761076,524,19.0
+2008,Distrito Federal,DF,Centro-Oeste,2778089,538,19.4
+2009,Distrito Federal,DF,Centro-Oeste,2795206,598,21.4
+2010,Distrito Federal,DF,Centro-Oeste,2812429,565,20.1
+2011,Distrito Federal,DF,Centro-Oeste,2829759,619,21.9
+2012,Distrito Federal,DF,Centro-Oeste,2847195,586,20.6
+2013,Distrito Federal,DF,Centro-Oeste,2864738,607,21.2
+2014,Distrito Federal,DF,Centro-Oeste,2882390,611,21.2
+2015,Distrito Federal,DF,Centro-Oeste,2900150,609,21.0
+2016,Distrito Federal,DF,Centro-Oeste,2918020,709,24.3
+2017,Distrito Federal,DF,Centro-Oeste,2936000,716,24.4
+2018,Distrito Federal,DF,Centro-Oeste,2954090,691,23.4
+2019,Distrito Federal,DF,Centro-Oeste,2972293,621,20.9
+2020,Distrito Federal,DF,Centro-Oeste,2990607,598,20.0
+2021,Distrito Federal,DF,Centro-Oeste,3009034,571,19.0
+2022,Distrito Federal,DF,Centro-Oeste,3027575,575,19.0
+2023,Distrito Federal,DF,Centro-Oeste,3046230,676,22.2
+2024,Distrito Federal,DF,Centro-Oeste,3065000,616,20.1
+2025,Distrito Federal,DF,Centro-Oeste,3083885,641,20.8
+2026,Distrito Federal,DF,Centro-Oeste,3102887,617,19.9
+1999,Espírito Santo,ES,Sudeste,2342459,613,26.2
+2000,Espírito Santo,ES,Sudeste,2394751,625,26.1
+2001,Espírito Santo,ES,Sudeste,2448210,597,24.4
+2002,Espírito Santo,ES,Sudeste,2502863,600,24.0
+2003,Espírito Santo,ES,Sudeste,2558736,647,25.3
+2004,Espírito Santo,ES,Sudeste,2615856,609,23.3
+2005,Espírito Santo,ES,Sudeste,2674251,631,23.6
+2006,Espírito Santo,ES,Sudeste,2733950,609,22.3
+2007,Espírito Santo,ES,Sudeste,2794981,567,20.3
+2008,Espírito Santo,ES,Sudeste,2857375,628,22.0
+2009,Espírito Santo,ES,Sudeste,2921161,733,25.1
+2010,Espírito Santo,ES,Sudeste,2986372,761,25.5
+2011,Espírito Santo,ES,Sudeste,3053038,732,24.0
+2012,Espírito Santo,ES,Sudeste,3121193,764,24.5
+2013,Espírito Santo,ES,Sudeste,3190869,848,26.6
+2014,Espírito Santo,ES,Sudeste,3262101,799,24.5
+2015,Espírito Santo,ES,Sudeste,3334922,913,27.4
+2016,Espírito Santo,ES,Sudeste,3409369,876,25.7
+2017,Espírito Santo,ES,Sudeste,3485478,1104,31.7
+2018,Espírito Santo,ES,Sudeste,3563287,1133,31.8
+2019,Espírito Santo,ES,Sudeste,3642832,968,26.6
+2020,Espírito Santo,ES,Sudeste,3724153,927,24.9
+2021,Espírito Santo,ES,Sudeste,3807289,871,22.9
+2022,Espírito Santo,ES,Sudeste,3892281,875,22.5
+2023,Espírito Santo,ES,Sudeste,3979170,1050,26.4
+2024,Espírito Santo,ES,Sudeste,4068000,960,23.6
+2025,Espírito Santo,ES,Sudeste,4158812,960,23.1
+2026,Espírito Santo,ES,Sudeste,4251651,892,21.0
+1999,Goiás,GO,Centro-Oeste,4786317,899,18.8
+2000,Goiás,GO,Centro-Oeste,4867791,1031,21.2
+2001,Goiás,GO,Centro-Oeste,4950652,955,19.3
+2002,Goiás,GO,Centro-Oeste,5034923,971,19.3
+2003,Goiás,GO,Centro-Oeste,5120629,988,19.3
+2004,Goiás,GO,Centro-Oeste,5207794,885,17.0
+2005,Goiás,GO,Centro-Oeste,5296443,990,18.7
+2006,Goiás,GO,Centro-Oeste,5386600,996,18.5
+2007,Goiás,GO,Centro-Oeste,5478293,936,17.1
+2008,Goiás,GO,Centro-Oeste,5571546,986,17.7
+2009,Goiás,GO,Centro-Oeste,5666386,1025,18.1
+2010,Goiás,GO,Centro-Oeste,5762841,1210,21.0
+2011,Goiás,GO,Centro-Oeste,5860938,1072,18.3
+2012,Goiás,GO,Centro-Oeste,5960705,1049,17.6
+2013,Goiás,GO,Centro-Oeste,6062170,1115,18.4
+2014,Goiás,GO,Centro-Oeste,6165362,1245,20.2
+2015,Goiás,GO,Centro-Oeste,6270310,1266,20.2
+2016,Goiás,GO,Centro-Oeste,6377046,1262,19.8
+2017,Goiás,GO,Centro-Oeste,6485598,1297,20.0
+2018,Goiás,GO,Centro-Oeste,6595997,1444,21.9
+2019,Goiás,GO,Centro-Oeste,6708276,1133,16.9
+2020,Goiás,GO,Centro-Oeste,6822467,1152,16.9
+2021,Goiás,GO,Centro-Oeste,6938601,1297,18.7
+2022,Goiás,GO,Centro-Oeste,7056712,1249,17.7
+2023,Goiás,GO,Centro-Oeste,7176833,1356,18.9
+2024,Goiás,GO,Centro-Oeste,7299000,1313,18.0
+2025,Goiás,GO,Centro-Oeste,7423245,1328,17.9
+2026,Goiás,GO,Centro-Oeste,7549606,1464,19.4
+1999,Maranhão,MA,Nordeste,4438104,643,14.5
+2000,Maranhão,MA,Nordeste,4523144,669,14.8
+2001,Maranhão,MA,Nordeste,4609814,649,14.1
+2002,Maranhão,MA,Nordeste,4698145,667,14.2
+2003,Maranhão,MA,Nordeste,4788168,679,14.2
+2004,Maranhão,MA,Nordeste,4879917,653,13.4
+2005,Maranhão,MA,Nordeste,4973423,581,11.7
+2006,Maranhão,MA,Nordeste,5068721,679,13.4
+2007,Maranhão,MA,Nordeste,5165845,609,11.8
+2008,Maranhão,MA,Nordeste,5264830,689,13.1
+2009,Maranhão,MA,Nordeste,5365712,778,14.5
+2010,Maranhão,MA,Nordeste,5468527,765,14.0
+2011,Maranhão,MA,Nordeste,5573312,785,14.1
+2012,Maranhão,MA,Nordeste,5680104,772,13.6
+2013,Maranhão,MA,Nordeste,5788944,764,13.2
+2014,Maranhão,MA,Nordeste,5899868,796,13.5
+2015,Maranhão,MA,Nordeste,6012918,919,15.3
+2016,Maranhão,MA,Nordeste,6128134,900,14.7
+2017,Maranhão,MA,Nordeste,6245558,936,15.0
+2018,Maranhão,MA,Nordeste,6365232,999,15.7
+2019,Maranhão,MA,Nordeste,6487199,927,14.3
+2020,Maranhão,MA,Nordeste,6611504,925,14.0
+2021,Maranhão,MA,Nordeste,6738190,862,12.8
+2022,Maranhão,MA,Nordeste,6867303,851,12.4
+2023,Maranhão,MA,Nordeste,6998891,930,13.3
+2024,Maranhão,MA,Nordeste,7133000,991,13.9
+2025,Maranhão,MA,Nordeste,7269678,966,13.3
+2026,Maranhão,MA,Nordeste,7408976,896,12.1
+1999,Mato Grosso,MT,Centro-Oeste,3353564,727,21.7
+2000,Mato Grosso,MT,Centro-Oeste,3371713,751,22.3
+2001,Mato Grosso,MT,Centro-Oeste,3389959,779,23.0
+2002,Mato Grosso,MT,Centro-Oeste,3408305,858,25.2
+2003,Mato Grosso,MT,Centro-Oeste,3426750,853,24.9
+2004,Mato Grosso,MT,Centro-Oeste,3445294,754,21.9
+2005,Mato Grosso,MT,Centro-Oeste,3463939,737,21.3
+2006,Mato Grosso,MT,Centro-Oeste,3482685,741,21.3
+2007,Mato Grosso,MT,Centro-Oeste,3501532,717,20.5
+2008,Mato Grosso,MT,Centro-Oeste,3520481,728,20.7
+2009,Mato Grosso,MT,Centro-Oeste,3539533,810,22.9
+2010,Mato Grosso,MT,Centro-Oeste,3558688,868,24.4
+2011,Mato Grosso,MT,Centro-Oeste,3577946,815,22.8
+2012,Mato Grosso,MT,Centro-Oeste,3597309,856,23.8
+2013,Mato Grosso,MT,Centro-Oeste,3616777,806,22.3
+2014,Mato Grosso,MT,Centro-Oeste,3636349,789,21.7
+2015,Mato Grosso,MT,Centro-Oeste,3656028,983,26.9
+2016,Mato Grosso,MT,Centro-Oeste,3675813,977,26.6
+2017,Mato Grosso,MT,Centro-Oeste,3695706,875,23.7
+2018,Mato Grosso,MT,Centro-Oeste,3715706,973,26.2
+2019,Mato Grosso,MT,Centro-Oeste,3735814,904,24.2
+2020,Mato Grosso,MT,Centro-Oeste,3756031,773,20.6
+2021,Mato Grosso,MT,Centro-Oeste,3776358,827,21.9
+2022,Mato Grosso,MT,Centro-Oeste,3796794,793,20.9
+2023,Mato Grosso,MT,Centro-Oeste,3817341,851,22.3
+2024,Mato Grosso,MT,Centro-Oeste,3838000,859,22.4
+2025,Mato Grosso,MT,Centro-Oeste,3858770,752,19.5
+2026,Mato Grosso,MT,Centro-Oeste,3879652,888,22.9
+1999,Mato Grosso do Sul,MS,Centro-Oeste,1606526,318,19.8
+2000,Mato Grosso do Sul,MS,Centro-Oeste,1645723,343,20.9
+2001,Mato Grosso do Sul,MS,Centro-Oeste,1685875,348,20.7
+2002,Mato Grosso do Sul,MS,Centro-Oeste,1727008,371,21.5
+2003,Mato Grosso do Sul,MS,Centro-Oeste,1769144,337,19.1
+2004,Mato Grosso do Sul,MS,Centro-Oeste,1812307,346,19.1
+2005,Mato Grosso do Sul,MS,Centro-Oeste,1856525,350,18.9
+2006,Mato Grosso do Sul,MS,Centro-Oeste,1901820,353,18.6
+2007,Mato Grosso do Sul,MS,Centro-Oeste,1948221,356,18.3
+2008,Mato Grosso do Sul,MS,Centro-Oeste,1995754,325,16.3
+2009,Mato Grosso do Sul,MS,Centro-Oeste,2044447,392,19.2
+2010,Mato Grosso do Sul,MS,Centro-Oeste,2094328,439,21.0
+2011,Mato Grosso do Sul,MS,Centro-Oeste,2145426,375,17.5
+2012,Mato Grosso do Sul,MS,Centro-Oeste,2197771,457,20.8
+2013,Mato Grosso do Sul,MS,Centro-Oeste,2251392,423,18.8
+2014,Mato Grosso do Sul,MS,Centro-Oeste,2306322,435,18.9
+2015,Mato Grosso do Sul,MS,Centro-Oeste,2362592,472,20.0
+2016,Mato Grosso do Sul,MS,Centro-Oeste,2420235,515,21.3
+2017,Mato Grosso do Sul,MS,Centro-Oeste,2479285,580,23.4
+2018,Mato Grosso do Sul,MS,Centro-Oeste,2539775,596,23.5
+2019,Mato Grosso do Sul,MS,Centro-Oeste,2601741,515,19.8
+2020,Mato Grosso do Sul,MS,Centro-Oeste,2665218,495,18.6
+2021,Mato Grosso do Sul,MS,Centro-Oeste,2730245,450,16.5
+2022,Mato Grosso do Sul,MS,Centro-Oeste,2796858,458,16.4
+2023,Mato Grosso do Sul,MS,Centro-Oeste,2865096,550,19.2
+2024,Mato Grosso do Sul,MS,Centro-Oeste,2935000,566,19.3
+2025,Mato Grosso do Sul,MS,Centro-Oeste,3006608,553,18.4
+2026,Mato Grosso do Sul,MS,Centro-Oeste,3079964,575,18.7
+1999,Minas Gerais,MG,Sudeste,12441677,2202,17.7
+2000,Minas Gerais,MG,Sudeste,12711025,2199,17.3
+2001,Minas Gerais,MG,Sudeste,12986204,2506,19.3
+2002,Minas Gerais,MG,Sudeste,13267341,2348,17.7
+2003,Minas Gerais,MG,Sudeste,13554564,2222,16.4
+2004,Minas Gerais,MG,Sudeste,13848004,2464,17.8
+2005,Minas Gerais,MG,Sudeste,14147798,2362,16.7
+2006,Minas Gerais,MG,Sudeste,14454081,2413,16.7
+2007,Minas Gerais,MG,Sudeste,14766996,2185,14.8
+2008,Minas Gerais,MG,Sudeste,15086684,2278,15.1
+2009,Minas Gerais,MG,Sudeste,15413294,2450,15.9
+2010,Minas Gerais,MG,Sudeste,15746974,2771,17.6
+2011,Minas Gerais,MG,Sudeste,16087878,2686,16.7
+2012,Minas Gerais,MG,Sudeste,16436162,2547,15.5
+2013,Minas Gerais,MG,Sudeste,16791986,2905,17.3
+2014,Minas Gerais,MG,Sudeste,17155513,2539,14.8
+2015,Minas Gerais,MG,Sudeste,17526910,2821,16.1
+2016,Minas Gerais,MG,Sudeste,17906348,3348,18.7
+2017,Minas Gerais,MG,Sudeste,18294000,3549,19.4
+2018,Minas Gerais,MG,Sudeste,18690044,3812,20.4
+2019,Minas Gerais,MG,Sudeste,19094662,3284,17.2
+2020,Minas Gerais,MG,Sudeste,19508039,3335,17.1
+2021,Minas Gerais,MG,Sudeste,19930366,3148,15.8
+2022,Minas Gerais,MG,Sudeste,20361836,2972,14.6
+2023,Minas Gerais,MG,Sudeste,20802646,3474,16.7
+2024,Minas Gerais,MG,Sudeste,21253000,3400,16.0
+2025,Minas Gerais,MG,Sudeste,21713103,3474,16.0
+2026,Minas Gerais,MG,Sudeste,22183166,3216,14.5
+1999,Pará,PA,Norte,7169896,1928,26.9
+2000,Pará,PA,Norte,7236194,1903,26.3
+2001,Pará,PA,Norte,7303106,1957,26.8
+2002,Pará,PA,Norte,7370636,1975,26.8
+2003,Pará,PA,Norte,7438791,1673,22.5
+2004,Pará,PA,Norte,7507576,1779,23.7
+2005,Pará,PA,Norte,7576997,1818,24.0
+2006,Pará,PA,Norte,7647059,1781,23.3
+2007,Pará,PA,Norte,7717770,1775,23.0
+2008,Pará,PA,Norte,7789135,1736,22.3
+2009,Pará,PA,Norte,7861159,2208,28.1
+2010,Pará,PA,Norte,7933849,2086,26.3
+2011,Pará,PA,Norte,8007212,2017,25.2
+2012,Pará,PA,Norte,8081253,1882,23.3
+2013,Pará,PA,Norte,8155979,1908,23.4
+2014,Pará,PA,Norte,8231395,2099,25.5
+2015,Pará,PA,Norte,8307509,2375,28.6
+2016,Pará,PA,Norte,8384327,2532,30.2
+2017,Pará,PA,Norte,8461855,2343,27.7
+2018,Pará,PA,Norte,8540100,2502,29.3
+2019,Pará,PA,Norte,8619068,2215,25.7
+2020,Pará,PA,Norte,8698767,2331,26.8
+2021,Pará,PA,Norte,8779202,2063,23.5
+2022,Pará,PA,Norte,8860382,2144,24.2
+2023,Pará,PA,Norte,8942312,2307,25.8
+2024,Pará,PA,Norte,9025000,2373,26.3
+2025,Pará,PA,Norte,9108452,2304,25.3
+2026,Pará,PA,Norte,9192676,2169,23.6
+1999,Paraíba,PB,Nordeste,3285897,581,17.7
+2000,Paraíba,PB,Nordeste,3314276,609,18.4
+2001,Paraíba,PB,Nordeste,3342900,671,20.1
+2002,Paraíba,PB,Nordeste,3371770,657,19.5
+2003,Paraíba,PB,Nordeste,3400891,601,17.7
+2004,Paraíba,PB,Nordeste,3430263,593,17.3
+2005,Paraíba,PB,Nordeste,3459888,539,15.6
+2006,Paraíba,PB,Nordeste,3489769,621,17.8
+2007,Paraíba,PB,Nordeste,3519909,591,16.8
+2008,Paraíba,PB,Nordeste,3550308,550,15.5
+2009,Paraíba,PB,Nordeste,3580971,669,18.7
+2010,Paraíba,PB,Nordeste,3611898,588,16.3
+2011,Paraíba,PB,Nordeste,3643092,644,17.7
+2012,Paraíba,PB,Nordeste,3674555,705,19.2
+2013,Paraíba,PB,Nordeste,3706291,693,18.7
+2014,Paraíba,PB,Nordeste,3738300,669,17.9
+2015,Paraíba,PB,Nordeste,3770586,723,19.2
+2016,Paraíba,PB,Nordeste,3803151,783,20.6
+2017,Paraíba,PB,Nordeste,3835997,771,20.1
+2018,Paraíba,PB,Nordeste,3869126,746,19.3
+2019,Paraíba,PB,Nordeste,3902542,698,17.9
+2020,Paraíba,PB,Nordeste,3936246,692,17.6
+2021,Paraíba,PB,Nordeste,3970242,694,17.5
+2022,Paraíba,PB,Nordeste,4004531,588,14.7
+2023,Paraíba,PB,Nordeste,4039116,727,18.0
+2024,Paraíba,PB,Nordeste,4074000,712,17.5
+2025,Paraíba,PB,Nordeste,4109185,661,16.1
+2026,Paraíba,PB,Nordeste,4144674,704,17.0
+1999,Paraná,PR,Sul,9425256,1489,15.8
+2000,Paraná,PR,Sul,9506955,1426,15.0
+2001,Paraná,PR,Sul,9589362,1611,16.8
+2002,Paraná,PR,Sul,9672484,1450,15.0
+2003,Paraná,PR,Sul,9756326,1404,14.4
+2004,Paraná,PR,Sul,9840894,1377,14.0
+2005,Paraná,PR,Sul,9926196,1320,13.3
+2006,Paraná,PR,Sul,10012237,1311,13.1
+2007,Paraná,PR,Sul,10099024,1221,12.1
+2008,Paraná,PR,Sul,10186563,1273,12.5
+2009,Paraná,PR,Sul,10274862,1551,15.1
+2010,Paraná,PR,Sul,10363925,1368,13.2
+2011,Paraná,PR,Sul,10453760,1536,14.7
+2012,Paraná,PR,Sul,10544375,1539,14.6
+2013,Paraná,PR,Sul,10635774,1574,14.8
+2014,Paraná,PR,Sul,10727966,1630,15.2
+2015,Paraná,PR,Sul,10820957,1763,16.3
+2016,Paraná,PR,Sul,10914754,1702,15.6
+2017,Paraná,PR,Sul,11009364,1761,16.0
+2018,Paraná,PR,Sul,11104794,1954,17.6
+2019,Paraná,PR,Sul,11201052,1590,14.2
+2020,Paraná,PR,Sul,11298143,1480,13.1
+2021,Paraná,PR,Sul,11396077,1709,15.0
+2022,Paraná,PR,Sul,11494859,1459,12.7
+2023,Paraná,PR,Sul,11594497,1658,14.3
+2024,Paraná,PR,Sul,11695000,1485,12.7
+2025,Paraná,PR,Sul,11796373,1710,14.5
+2026,Paraná,PR,Sul,11898625,1523,12.8
+1999,Pernambuco,PE,Nordeste,7343719,2173,29.6
+2000,Pernambuco,PE,Nordeste,7425123,2301,31.0
+2001,Pernambuco,PE,Nordeste,7507429,2117,28.2
+2002,Pernambuco,PE,Nordeste,7590648,2254,29.7
+2003,Pernambuco,PE,Nordeste,7674789,2371,30.9
+2004,Pernambuco,PE,Nordeste,7759863,1893,24.4
+2005,Pernambuco,PE,Nordeste,7845880,2032,25.9
+2006,Pernambuco,PE,Nordeste,7932850,1983,25.0
+2007,Pernambuco,PE,Nordeste,8020784,2021,25.2
+2008,Pernambuco,PE,Nordeste,8109694,1994,24.6
+2009,Pernambuco,PE,Nordeste,8199588,2271,27.7
+2010,Pernambuco,PE,Nordeste,8290479,2329,28.1
+2011,Pernambuco,PE,Nordeste,8382378,2313,27.6
+2012,Pernambuco,PE,Nordeste,8475295,2364,27.9
+2013,Pernambuco,PE,Nordeste,8569243,2442,28.5
+2014,Pernambuco,PE,Nordeste,8664232,2521,29.1
+2015,Pernambuco,PE,Nordeste,8760273,2812,32.1
+2016,Pernambuco,PE,Nordeste,8857379,2869,32.4
+2017,Pernambuco,PE,Nordeste,8955562,2767,30.9
+2018,Pernambuco,PE,Nordeste,9054833,3015,33.3
+2019,Pernambuco,PE,Nordeste,9155205,2911,31.8
+2020,Pernambuco,PE,Nordeste,9256689,2656,28.7
+2021,Pernambuco,PE,Nordeste,9359298,2395,25.6
+2022,Pernambuco,PE,Nordeste,9463044,2564,27.1
+2023,Pernambuco,PE,Nordeste,9567940,2698,28.2
+2024,Pernambuco,PE,Nordeste,9674000,2602,26.9
+2025,Pernambuco,PE,Nordeste,9781234,2826,28.9
+2026,Pernambuco,PE,Nordeste,9889658,2422,24.5
+1999,Piauí,PI,Nordeste,2278817,284,12.5
+2000,Piauí,PI,Nordeste,2314128,333,14.4
+2001,Piauí,PI,Nordeste,2349986,324,13.8
+2002,Piauí,PI,Nordeste,2386399,331,13.9
+2003,Piauí,PI,Nordeste,2423376,317,13.1
+2004,Piauí,PI,Nordeste,2460927,314,12.8
+2005,Piauí,PI,Nordeste,2499059,307,12.3
+2006,Piauí,PI,Nordeste,2537783,299,11.8
+2007,Piauí,PI,Nordeste,2577106,298,11.6
+2008,Piauí,PI,Nordeste,2617039,295,11.3
+2009,Piauí,PI,Nordeste,2657590,348,13.1
+2010,Piauí,PI,Nordeste,2698770,356,13.2
+2011,Piauí,PI,Nordeste,2740587,320,11.7
+2012,Piauí,PI,Nordeste,2783053,381,13.7
+2013,Piauí,PI,Nordeste,2826177,378,13.4
+2014,Piauí,PI,Nordeste,2869969,370,12.9
+2015,Piauí,PI,Nordeste,2914439,419,14.4
+2016,Piauí,PI,Nordeste,2959599,438,14.8
+2017,Piauí,PI,Nordeste,3005458,435,14.5
+2018,Piauí,PI,Nordeste,3052028,460,15.1
+2019,Piauí,PI,Nordeste,3099320,421,13.6
+2020,Piauí,PI,Nordeste,3147344,406,12.9
+2021,Piauí,PI,Nordeste,3196113,431,13.5
+2022,Piauí,PI,Nordeste,3245637,412,12.7
+2023,Piauí,PI,Nordeste,3295929,461,14.0
+2024,Piauí,PI,Nordeste,3347000,418,12.5
+2025,Piauí,PI,Nordeste,3398862,414,12.2
+2026,Piauí,PI,Nordeste,3451528,400,11.6
+1999,Rio de Janeiro,RJ,Sudeste,12303666,4417,35.9
+2000,Rio de Janeiro,RJ,Sudeste,12471474,3803,30.5
+2001,Rio de Janeiro,RJ,Sudeste,12641571,4373,34.6
+2002,Rio de Janeiro,RJ,Sudeste,12813989,4472,34.9
+2003,Rio de Janeiro,RJ,Sudeste,12988757,4117,31.7
+2004,Rio de Janeiro,RJ,Sudeste,13165910,4555,34.6
+2005,Rio de Janeiro,RJ,Sudeste,13345478,4070,30.5
+2006,Rio de Janeiro,RJ,Sudeste,13527496,4301,31.8
+2007,Rio de Janeiro,RJ,Sudeste,13711996,4744,34.6
+2008,Rio de Janeiro,RJ,Sudeste,13899013,3766,27.1
+2009,Rio de Janeiro,RJ,Sudeste,14088580,4902,34.8
+2010,Rio de Janeiro,RJ,Sudeste,14280733,4855,34.0
+2011,Rio de Janeiro,RJ,Sudeste,14475506,4820,33.3
+2012,Rio de Janeiro,RJ,Sudeste,14672936,5179,35.3
+2013,Rio de Janeiro,RJ,Sudeste,14873059,5279,35.5
+2014,Rio de Janeiro,RJ,Sudeste,15075911,5216,34.6
+2015,Rio de Janeiro,RJ,Sudeste,15281530,5363,35.1
+2016,Rio de Janeiro,RJ,Sudeste,15489953,6521,42.1
+2017,Rio de Janeiro,RJ,Sudeste,15701219,5542,35.3
+2018,Rio de Janeiro,RJ,Sudeste,15915366,6016,37.8
+2019,Rio de Janeiro,RJ,Sudeste,16132435,5533,34.3
+2020,Rio de Janeiro,RJ,Sudeste,16352463,5363,32.8
+2021,Rio de Janeiro,RJ,Sudeste,16575493,5320,32.1
+2022,Rio de Janeiro,RJ,Sudeste,16801564,5443,32.4
+2023,Rio de Janeiro,RJ,Sudeste,17030719,5807,34.1
+2024,Rio de Janeiro,RJ,Sudeste,17263000,5783,33.5
+2025,Rio de Janeiro,RJ,Sudeste,17498448,5477,31.3
+2026,Rio de Janeiro,RJ,Sudeste,17737107,5729,32.3
+1999,Rio Grande do Norte,RN,Nordeste,2734430,519,19.0
+2000,Rio Grande do Norte,RN,Nordeste,2764029,525,19.0
+2001,Rio Grande do Norte,RN,Nordeste,2793948,553,19.8
+2002,Rio Grande do Norte,RN,Nordeste,2824191,573,20.3
+2003,Rio Grande do Norte,RN,Nordeste,2854762,476,16.7
+2004,Rio Grande do Norte,RN,Nordeste,2885664,533,18.5
+2005,Rio Grande do Norte,RN,Nordeste,2916900,507,17.4
+2006,Rio Grande do Norte,RN,Nordeste,2948474,527,17.9
+2007,Rio Grande do Norte,RN,Nordeste,2980390,488,16.4
+2008,Rio Grande do Norte,RN,Nordeste,3012652,515,17.1
+2009,Rio Grande do Norte,RN,Nordeste,3045262,563,18.5
+2010,Rio Grande do Norte,RN,Nordeste,3078226,517,16.8
+2011,Rio Grande do Norte,RN,Nordeste,3111546,612,19.7
+2012,Rio Grande do Norte,RN,Nordeste,3145228,559,17.8
+2013,Rio Grande do Norte,RN,Nordeste,3179273,537,16.9
+2014,Rio Grande do Norte,RN,Nordeste,3213688,584,18.2
+2015,Rio Grande do Norte,RN,Nordeste,3248475,636,19.6
+2016,Rio Grande do Norte,RN,Nordeste,3283638,699,21.3
+2017,Rio Grande do Norte,RN,Nordeste,3319182,730,22.0
+2018,Rio Grande do Norte,RN,Nordeste,3355111,731,21.8
+2019,Rio Grande do Norte,RN,Nordeste,3391428,600,17.7
+2020,Rio Grande do Norte,RN,Nordeste,3428139,617,18.0
+2021,Rio Grande do Norte,RN,Nordeste,3465247,596,17.2
+2022,Rio Grande do Norte,RN,Nordeste,3502757,591,16.9
+2023,Rio Grande do Norte,RN,Nordeste,3540673,633,17.9
+2024,Rio Grande do Norte,RN,Nordeste,3579000,637,17.8
+2025,Rio Grande do Norte,RN,Nordeste,3617741,654,18.1
+2026,Rio Grande do Norte,RN,Nordeste,3656901,665,18.2
+1999,Rio Grande do Sul,RS,Sul,7387268,1048,14.2
+2000,Rio Grande do Sul,RS,Sul,7514603,1021,13.6
+2001,Rio Grande do Sul,RS,Sul,7644132,1009,13.2
+2002,Rio Grande do Sul,RS,Sul,7775895,1073,13.8
+2003,Rio Grande do Sul,RS,Sul,7909928,980,12.4
+2004,Rio Grande do Sul,RS,Sul,8046272,981,12.2
+2005,Rio Grande do Sul,RS,Sul,8184966,1088,13.3
+2006,Rio Grande do Sul,RS,Sul,8326051,1015,12.2
+2007,Rio Grande do Sul,RS,Sul,8469568,965,11.4
+2008,Rio Grande do Sul,RS,Sul,8615558,1008,11.7
+2009,Rio Grande do Sul,RS,Sul,8764065,1244,14.2
+2010,Rio Grande do Sul,RS,Sul,8915132,1150,12.9
+2011,Rio Grande do Sul,RS,Sul,9068802,1160,12.8
+2012,Rio Grande do Sul,RS,Sul,9225122,1162,12.6
+2013,Rio Grande do Sul,RS,Sul,9384136,1266,13.5
+2014,Rio Grande do Sul,RS,Sul,9545891,1269,13.3
+2015,Rio Grande do Sul,RS,Sul,9710434,1446,14.9
+2016,Rio Grande do Sul,RS,Sul,9877813,1481,15.0
+2017,Rio Grande do Sul,RS,Sul,10048078,1356,13.5
+2018,Rio Grande do Sul,RS,Sul,10221277,1574,15.4
+2019,Rio Grande do Sul,RS,Sul,10397462,1278,12.3
+2020,Rio Grande do Sul,RS,Sul,10576683,1279,12.1
+2021,Rio Grande do Sul,RS,Sul,10758994,1291,12.0
+2022,Rio Grande do Sul,RS,Sul,10944448,1302,11.9
+2023,Rio Grande do Sul,RS,Sul,11133098,1391,12.5
+2024,Rio Grande do Sul,RS,Sul,11325000,1268,11.2
+2025,Rio Grande do Sul,RS,Sul,11520209,1428,12.4
+2026,Rio Grande do Sul,RS,Sul,11718784,1582,13.5
+1999,Rondônia,RO,Norte,1390345,312,22.5
+2000,Rondônia,RO,Norte,1401175,319,22.8
+2001,Rondônia,RO,Norte,1412090,348,24.7
+2002,Rondônia,RO,Norte,1423090,333,23.4
+2003,Rondônia,RO,Norte,1434176,319,22.3
+2004,Rondônia,RO,Norte,1445348,315,21.8
+2005,Rondônia,RO,Norte,1456607,305,21.0
+2006,Rondônia,RO,Norte,1467954,278,19.0
+2007,Rondônia,RO,Norte,1479389,269,18.2
+2008,Rondônia,RO,Norte,1490913,308,20.7
+2009,Rondônia,RO,Norte,1502527,341,22.7
+2010,Rondônia,RO,Norte,1514232,339,22.4
+2011,Rondônia,RO,Norte,1526028,334,21.9
+2012,Rondônia,RO,Norte,1537915,349,22.7
+2013,Rondônia,RO,Norte,1549895,376,24.3
+2014,Rondônia,RO,Norte,1561969,342,21.9
+2015,Rondônia,RO,Norte,1574136,357,22.7
+2016,Rondônia,RO,Norte,1586399,379,23.9
+2017,Rondônia,RO,Norte,1598757,417,26.1
+2018,Rondônia,RO,Norte,1611211,399,24.8
+2019,Rondônia,RO,Norte,1623762,368,22.7
+2020,Rondônia,RO,Norte,1636411,302,18.5
+2021,Rondônia,RO,Norte,1649158,328,19.9
+2022,Rondônia,RO,Norte,1662005,330,19.9
+2023,Rondônia,RO,Norte,1674952,391,23.4
+2024,Rondônia,RO,Norte,1688000,346,20.5
+2025,Rondônia,RO,Norte,1701149,326,19.2
+2026,Rondônia,RO,Norte,1714401,339,19.8
+1999,Roraima,RR,Norte,541445,83,15.4
+2000,Roraima,RR,Norte,547316,88,16.2
+2001,Roraima,RR,Norte,553250,90,16.3
+2002,Roraima,RR,Norte,559249,85,15.2
+2003,Roraima,RR,Norte,565313,92,16.4
+2004,Roraima,RR,Norte,571443,86,15.2
+2005,Roraima,RR,Norte,577639,90,15.7
+2006,Roraima,RR,Norte,583902,76,13.1
+2007,Roraima,RR,Norte,590233,78,13.3
+2008,Roraima,RR,Norte,596633,82,13.9
+2009,Roraima,RR,Norte,603102,93,15.5
+2010,Roraima,RR,Norte,609642,96,15.8
+2011,Roraima,RR,Norte,616252,97,15.8
+2012,Roraima,RR,Norte,622934,98,15.8
+2013,Roraima,RR,Norte,629688,94,15.0
+2014,Roraima,RR,Norte,636516,98,15.5
+2015,Roraima,RR,Norte,643418,103,16.1
+2016,Roraima,RR,Norte,650394,116,17.9
+2017,Roraima,RR,Norte,657446,116,17.7
+2018,Roraima,RR,Norte,664575,122,18.5
+2019,Roraima,RR,Norte,671781,118,17.7
+2020,Roraima,RR,Norte,679065,96,14.2
+2021,Roraima,RR,Norte,686428,105,15.4
+2022,Roraima,RR,Norte,693871,83,12.0
+2023,Roraima,RR,Norte,701394,99,14.2
+2024,Roraima,RR,Norte,709000,102,14.4
+2025,Roraima,RR,Norte,716687,100,14.0
+2026,Roraima,RR,Norte,724458,105,14.6
+1999,Santa Catarina,SC,Sul,5932778,652,11.0
+2000,Santa Catarina,SC,Sul,6005912,642,10.7
+2001,Santa Catarina,SC,Sul,6079949,650,10.7
+2002,Santa Catarina,SC,Sul,6154898,683,11.1
+2003,Santa Catarina,SC,Sul,6230771,679,10.9
+2004,Santa Catarina,SC,Sul,6307579,599,9.5
+2005,Santa Catarina,SC,Sul,6385334,619,9.7
+2006,Santa Catarina,SC,Sul,6464047,614,9.5
+2007,Santa Catarina,SC,Sul,6543731,621,9.5
+2008,Santa Catarina,SC,Sul,6624397,569,8.6
+2009,Santa Catarina,SC,Sul,6706058,710,10.6
+2010,Santa Catarina,SC,Sul,6788725,719,10.6
+2011,Santa Catarina,SC,Sul,6872411,694,10.1
+2012,Santa Catarina,SC,Sul,6957129,695,10.0
+2013,Santa Catarina,SC,Sul,7042891,725,10.3
+2014,Santa Catarina,SC,Sul,7129711,720,10.1
+2015,Santa Catarina,SC,Sul,7217600,822,11.4
+2016,Santa Catarina,SC,Sul,7306573,796,10.9
+2017,Santa Catarina,SC,Sul,7396643,858,11.6
+2018,Santa Catarina,SC,Sul,7487823,898,12.0
+2019,Santa Catarina,SC,Sul,7580128,818,10.8
+2020,Santa Catarina,SC,Sul,7673570,728,9.5
+2021,Santa Catarina,SC,Sul,7768164,753,9.7
+2022,Santa Catarina,SC,Sul,7863924,731,9.3
+2023,Santa Catarina,SC,Sul,7960864,899,11.3
+2024,Santa Catarina,SC,Sul,8059000,781,9.7
+2025,Santa Catarina,SC,Sul,8158345,775,9.5
+2026,Santa Catarina,SC,Sul,8258915,751,9.1
+1999,São Paulo,SP,Sudeste,32600864,6748,20.7
+2000,São Paulo,SP,Sudeste,33061234,8133,24.6
+2001,São Paulo,SP,Sudeste,33528105,7107,21.2
+2002,São Paulo,SP,Sudeste,34001569,7378,21.7
+2003,São Paulo,SP,Sudeste,34481718,8068,23.4
+2004,São Paulo,SP,Sudeste,34968649,6783,19.4
+2005,São Paulo,SP,Sudeste,35462455,7588,21.4
+2006,São Paulo,SP,Sudeste,35963234,6689,18.6
+2007,São Paulo,SP,Sudeste,36471086,7513,20.6
+2008,São Paulo,SP,Sudeste,36986108,6213,16.8
+2009,São Paulo,SP,Sudeste,37508404,7651,20.4
+2010,São Paulo,SP,Sudeste,38038075,8178,21.5
+2011,São Paulo,SP,Sudeste,38575226,8872,23.0
+2012,São Paulo,SP,Sudeste,39119962,8489,21.7
+2013,São Paulo,SP,Sudeste,39672391,8370,21.1
+2014,São Paulo,SP,Sudeste,40232621,9132,22.7
+2015,São Paulo,SP,Sudeste,40800762,10526,25.8
+2016,São Paulo,SP,Sudeste,41376925,10261,24.8
+2017,São Paulo,SP,Sudeste,41961225,10028,23.9
+2018,São Paulo,SP,Sudeste,42553777,10595,24.9
+2019,São Paulo,SP,Sudeste,43154696,8760,20.3
+2020,São Paulo,SP,Sudeste,43764100,9146,20.9
+2021,São Paulo,SP,Sudeste,44382111,8166,18.4
+2022,São Paulo,SP,Sudeste,45008848,8866,19.7
+2023,São Paulo,SP,Sudeste,45644436,11000,24.1
+2024,São Paulo,SP,Sudeste,46289000,10183,22.0
+2025,São Paulo,SP,Sudeste,46942665,9435,20.1
+2026,São Paulo,SP,Sudeste,47605561,9759,20.5
+1999,Sergipe,SE,Nordeste,1455847,323,22.2
+2000,Sergipe,SE,Nordeste,1485988,328,22.1
+2001,Sergipe,SE,Nordeste,1516754,295,19.5
+2002,Sergipe,SE,Nordeste,1548156,325,21.0
+2003,Sergipe,SE,Nordeste,1580208,311,19.7
+2004,Sergipe,SE,Nordeste,1612924,324,20.1
+2005,Sergipe,SE,Nordeste,1646317,314,19.1
+2006,Sergipe,SE,Nordeste,1680402,268,16.0
+2007,Sergipe,SE,Nordeste,1715192,296,17.3
+2008,Sergipe,SE,Nordeste,1750703,301,17.2
+2009,Sergipe,SE,Nordeste,1786948,335,18.8
+2010,Sergipe,SE,Nordeste,1823944,377,20.7
+2011,Sergipe,SE,Nordeste,1861706,342,18.4
+2012,Sergipe,SE,Nordeste,1900250,359,18.9
+2013,Sergipe,SE,Nordeste,1939592,403,20.8
+2014,Sergipe,SE,Nordeste,1979749,364,18.4
+2015,Sergipe,SE,Nordeste,2020736,438,21.7
+2016,Sergipe,SE,Nordeste,2062573,408,19.8
+2017,Sergipe,SE,Nordeste,2105275,520,24.7
+2018,Sergipe,SE,Nordeste,2148862,487,22.7
+2019,Sergipe,SE,Nordeste,2193351,434,19.8
+2020,Sergipe,SE,Nordeste,2238761,427,19.1
+2021,Sergipe,SE,Nordeste,2285111,427,18.7
+2022,Sergipe,SE,Nordeste,2332421,375,16.1
+2023,Sergipe,SE,Nordeste,2380710,473,19.9
+2024,Sergipe,SE,Nordeste,2430000,454,18.7
+2025,Sergipe,SE,Nordeste,2480309,424,17.1
+2026,Sergipe,SE,Nordeste,2531660,481,19.0
+1999,Tocantins,TO,Norte,1297506,228,17.6
+2000,Tocantins,TO,Norte,1309175,236,18.1
+2001,Tocantins,TO,Norte,1320949,239,18.1
+2002,Tocantins,TO,Norte,1332829,234,17.6
+2003,Tocantins,TO,Norte,1344816,256,19.1
+2004,Tocantins,TO,Norte,1356910,227,16.8
+2005,Tocantins,TO,Norte,1369114,206,15.1
+2006,Tocantins,TO,Norte,1381427,214,15.5
+2007,Tocantins,TO,Norte,1393851,220,15.8
+2008,Tocantins,TO,Norte,1406386,215,15.3
+2009,Tocantins,TO,Norte,1419035,238,16.8
+2010,Tocantins,TO,Norte,1431797,263,18.4
+2011,Tocantins,TO,Norte,1444674,228,15.8
+2012,Tocantins,TO,Norte,1457666,265,18.2
+2013,Tocantins,TO,Norte,1470776,233,15.9
+2014,Tocantins,TO,Norte,1484003,247,16.7
+2015,Tocantins,TO,Norte,1497349,290,19.4
+2016,Tocantins,TO,Norte,1510816,288,19.1
+2017,Tocantins,TO,Norte,1524403,310,20.4
+2018,Tocantins,TO,Norte,1538113,319,20.8
+2019,Tocantins,TO,Norte,1551946,284,18.3
+2020,Tocantins,TO,Norte,1565903,272,17.4
+2021,Tocantins,TO,Norte,1579986,244,15.5
+2022,Tocantins,TO,Norte,1594196,250,15.7
+2023,Tocantins,TO,Norte,1608533,257,16.0
+2024,Tocantins,TO,Norte,1623000,272,16.8
+2025,Tocantins,TO,Norte,1637596,278,17.0
+2026,Tocantins,TO,Norte,1652324,264,16.0
