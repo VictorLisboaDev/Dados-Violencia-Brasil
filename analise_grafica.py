@@ -358,6 +358,7 @@ fig7, (ax7a, ax7b) = plt.subplots(1, 2, figsize=(18, 8))
 
 # 7a: Tendência com regressão linear
 from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
 
 X = df_brasil['ano'].values.reshape(-1, 1)
 y = df_brasil['taxa_homicidios'].values
