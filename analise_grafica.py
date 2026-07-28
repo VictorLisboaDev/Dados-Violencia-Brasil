@@ -347,3 +347,288 @@ ax6.grid(True, alpha=0.3, axis='x')
 plt.tight_layout()
 plt.savefig('graficos/06_ranking_mundial.png', dpi=300, bbox_inches='tight')
 plt.close()
+
+# ============================================================================
+# 8. GRÁFICO 7: ANÁLISE DE TENDÊNCIAS COM REGRESSÃO
+# ============================================================================
+
+print("\n📊 GERANDO GRÁFICO 7: Análise de Tendências...")
+
+fig7, (ax7a, ax7b) = plt.subplots(1, 2, figsize=(18, 8))
+
+# 7a: Tendência com regressão linear
+from sklearn.linear_model import LinearRegression
+
+X = df_brasil['ano'].values.reshape(-1, 1)
+y = df_brasil['taxa_homicidios'].values
+
+reg = LinearRegression().fit(X, y)
+y_pred = reg.predict(X)
+
+ax7a.scatter(df_brasil['ano'], df_brasil['taxa_homicidios'], 
+            color='blue', alpha=0.6, s=50, label='Dados Reais')
+ax7a.plot(df_brasil['ano'], y_pred, color='red', linewidth=2.5, 
+         label=f'Tendência Linear (R²={r2_score(y, y_pred):.3f})')
+
+# Previsões futuras
+anos_futuro = np.arange(2025, 2027).reshape(-1, 1)
+previsoes = reg.predict(anos_futuro)
+ax7a.scatter([2025, 2026], previsoes, color='green', s=100, 
+            marker='D', label='Previsão', zorder=5)
+
+ax7a.set_title('Tendência e Previsão de Homicídios no Brasil', 
+              fontsize=16, fontweight='bold')
+ax7a.set_xlabel('Ano', fontsize=12)
+ax7a.set_ylabel('Taxa por 100.000 hab.', fontsize=12)
+ax7a.legend(loc='best', fontsize=11)
+ax7a.grid(True, alpha=0.3)
+
+# 7b: Taxa de mudança ano a ano
+df_brasil['variacao_anual'] = df_brasil['taxa_homicidios'].pct_change() * 100
+
+cores_var = ['green' if x < 0 else 'red' for x in df_brasil['variacao_anual'].dropna()]
+ax7b.bar(df_brasil['ano'][1:], df_brasil['variacao_anual'].dropna(), 
+        color=cores_var, alpha=0.7)
+ax7b.axhline(0, color='black', linewidth=1)
+ax7b.set_title('Variação Anual da Taxa de Homicídios (%)', 
+              fontsize=16, fontweight='bold')
+ax7b.set_xlabel('Ano', fontsize=12)
+ax7b.set_ylabel('Variação (%)', fontsize=12)
+ax7b.grid(True, alpha=0.3, axis='y')
+
+plt.tight_layout()
+plt.savefig('graficos/07_analise_tendencias.png', dpi=300, bbox_inches='tight')
+plt.close()
+
+# ============================================================================
+# 9. GRÁFICO 8: RADAR CHART - PERFIL DOS ESTADOS
+# ============================================================================
+
+print("\n📊 GERANDO GRÁFICO 8: Radar Chart...")
+
+fig8, ax8 = plt.subplots(figsize=(10, 10), subplot_kw=dict(projection='polar'))
+
+# Selecionar estados representativos por região
+estados_selecionados = {
+    'Norte': 'PA',
+    'Nordeste': 'PE',
+    'Centro-Oeste': 'DF',
+    'Sudeste': 'SP',
+    'Sul': 'SC'
+}
+
+# Preparar dados para radar
+categorias = ['Taxa 2000', 'Taxa 2010', 'Taxa 2020', 'Taxa 2024', 'População (M)']
+categorias_radar = [f'{c}' for c in categorias]
+N = len(categorias_radar)
+angles = [n / float(N) * 2 * np.pi for n in range(N)]
+angles += angles[:1]
+
+# Plotar cada estado
+for nome, sigla in estados_selecionados.items():
+    dados_estado = df_estados[df_estados['sigla'] == sigla]
+    
+    # Valores para o radar
+    valores = [
+        dados_estado[dados_estado['ano'] == 2000]['taxa_homicidios'].values[0] if 2000 in dados_estado['ano'].values else 0,
+        dados_estado[dados_estado['ano'] == 2010]['taxa_homicidios'].values[0] if 2010 in dados_estado['ano'].values else 0,
+        dados_estado[dados_estado['ano'] == 2020]['taxa_homicidios'].values[0] if 2020 in dados_estado['ano'].values else 0,
+        dados_estado[dados_estado['ano'] == 2024]['taxa_homicidios'].values[0] if 2024 in dados_estado['ano'].values else 0,
+        dados_estado[dados_estado['ano'] == 2024]['populacao'].values[0] / 1000000  # Converter para milhões
+    ]
+    
+    # Normalizar para radar (escala 0-1)
+    max_valores = [30, 30, 30, 30, 50]  # Máximos esperados
+    valores_norm = [v / max_val for v, max_val in zip(valores, max_valores)]
+    valores_norm += valores_norm[:1]
+    
+    ax8.plot(angles, valores_norm, 'o-', linewidth=2, label=nome, alpha=0.8)
+    ax8.fill(angles, valores_norm, alpha=0.1)
+
+ax8.set_xticks(angles[:-1])
+ax8.set_xticklabels(categorias_radar)
+ax8.set_title('Perfil Comparativo de Estados por Região\n(Dados Normalizados)', 
+             fontsize=16, fontweight='bold', pad=20)
+ax8.legend(loc='upper right', bbox_to_anchor=(1.3, 1.0))
+ax8.grid(True)
+
+plt.tight_layout()
+plt.savefig('graficos/08_radar_estados.png', dpi=300, bbox_inches='tight')
+plt.close()
+
+# ============================================================================
+# 10. GRÁFICO 9: GRÁFICO INTERATIVO COM PLOTLY (HTML)
+# ============================================================================
+
+print("\n📊 GERANDO GRÁFICO 9: Gráfico Interativo Plotly...")
+
+# Criar subplots interativos
+fig_interativo = make_subplots(
+    rows=2, cols=2,
+    subplot_titles=('Evolução Brasil e Regiões', 'Top 10 Estados (2024)',
+                   'Brasil vs Mundo', 'Distribuição por Região (2024)')
+)
+
+# 1. Evolução Brasil e regiões
+for regiao in df_regioes['regiao'].unique():
+    dados_reg = df_regioes[df_regioes['regiao'] == regiao]
+    fig_interativo.add_trace(
+        go.Scatter(x=dados_reg['ano'], y=dados_reg['taxa_homicidios'],
+                  mode='lines+markers', name=regiao),
+        row=1, col=1
+    )
+
+# 2. Top 10 estados
+top10 = df_estados[df_estados['ano'] == 2024].nlargest(10, 'taxa_homicidios')
+fig_interativo.add_trace(
+    go.Bar(x=top10['taxa_homicidios'], y=top10['estado'],
+           orientation='h', name='Top 10', marker_color='coral'),
+    row=1, col=2
+)
+
+# 3. Brasil vs Mundo
+fig_interativo.add_trace(
+    go.Scatter(x=df_comparacao['ano'], y=df_comparacao['taxa_homicidios'],
+              mode='lines', name='Brasil', line=dict(color='red', width=3)),
+    row=2, col=1
+)
+fig_interativo.add_trace(
+    go.Scatter(x=df_comparacao['ano'], y=df_comparacao['taxa_mundo_media'],
+              mode='lines', name='Média Mundial', line=dict(color='blue', width=3)),
+    row=2, col=1
+)
+
+# 4. Distribuição por região (boxplot)
+for regiao in df_regioes['regiao'].unique():
+    dados_reg = df_regioes[df_regioes['regiao'] == regiao]
+    fig_interativo.add_trace(
+        go.Box(y=dados_reg['taxa_homicidios'], name=regiao),
+        row=2, col=2
+    )
+
+# Atualizar layout
+fig_interativo.update_layout(height=800, showlegend=True, title_text="Dashboard Interativo - Análise de Homicídios")
+fig_interativo.update_xaxes(title_text="Ano", row=1, col=1)
+fig_interativo.update_xaxes(title_text="Taxa por 100k", row=1, col=2)
+fig_interativo.update_xaxes(title_text="Ano", row=2, col=1)
+fig_interativo.update_yaxes(title_text="Taxa por 100k", row=1, col=1)
+fig_interativo.update_yaxes(title_text="Estado", row=1, col=2)
+fig_interativo.update_yaxes(title_text="Taxa por 100k", row=2, col=1)
+
+# Salvar como HTML
+fig_interativo.write_html('graficos/09_dashboard_interativo.html')
+print("✅ Gráfico interativo salvo em: graficos/09_dashboard_interativo.html")
+
+# ============================================================================
+# 11. GRÁFICO 10: ANÁLISE DE CLUSTERS COM PCA
+# ============================================================================
+
+print("\n📊 GERANDO GRÁFICO 10: Análise de Clusters...")
+
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+
+# Preparar dados
+df_cluster = df_estados[df_estados['ano'] == 2024].copy()
+features = ['taxa_homicidios', 'populacao']
+X = df_cluster[features].values
+
+# Padronizar
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Aplicar K-Means
+kmeans = KMeans(n_clusters=4, random_state=42, n_init=10)
+df_cluster['cluster'] = kmeans.fit_predict(X_scaled)
+
+# PCA para visualização 2D
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_scaled)
+df_cluster['pca1'] = X_pca[:, 0]
+df_cluster['pca2'] = X_pca[:, 1]
+
+# Criar gráfico
+fig10, (ax10a, ax10b) = plt.subplots(1, 2, figsize=(16, 8))
+
+# 10a: Scatter plot com clusters
+scatter = ax10a.scatter(df_cluster['pca1'], df_cluster['pca2'], 
+                        c=df_cluster['cluster'], cmap='viridis', 
+                        s=200, alpha=0.7)
+
+# Adicionar labels dos estados
+for _, row in df_cluster.iterrows():
+    ax10a.annotate(row['sigla'], (row['pca1'], row['pca2']), 
+                  fontsize=9, fontweight='bold')
+
+ax10a.set_title('Clusters de Estados (PCA - 2024)', fontsize=14, fontweight='bold')
+ax10a.set_xlabel(f'Componente Principal 1 ({pca.explained_variance_ratio_[0]:.1%})')
+ax10a.set_ylabel(f'Componente Principal 2 ({pca.explained_variance_ratio_[1]:.1%})')
+ax10a.grid(True, alpha=0.3)
+
+# Legenda para clusters
+centers = pca.transform(kmeans.cluster_centers_)
+for i, center in enumerate(centers):
+    ax10a.scatter(center[0], center[1], c='red', s=300, marker='X', 
+                 edgecolor='black', linewidth=2)
+    ax10a.annotate(f'Cluster {i+1}', (center[0]+0.2, center[1]+0.2),
+                  fontsize=10, fontweight='bold', color='red')
+
+# 10b: Características dos clusters
+cluster_summary = df_cluster.groupby('cluster').agg({
+    'taxa_homicidios': 'mean',
+    'populacao': 'mean'
+}).round(1)
+
+cluster_summary['populacao'] = cluster_summary['populacao'] / 1000000  # Converter para milhões
+cluster_summary = cluster_summary.rename(columns={'taxa_homicidios': 'Taxa Média', 'populacao': 'Pop. Média (M)'})
+
+# Criar tabela
+table_data = cluster_summary.values
+columns = cluster_summary.columns
+ax10b.axis('tight')
+ax10b.axis('off')
+table = ax10b.table(cellText=table_data, rowLabels=cluster_summary.index, 
+                   colLabels=columns, cellLoc='center', loc='center',
+                   colColours=['#3498db']*len(columns))
+
+table.auto_set_font_size(False)
+table.set_fontsize(12)
+table.scale(1, 2)
+
+ax10b.set_title('Características dos Clusters', fontsize=14, fontweight='bold', pad=20)
+
+plt.tight_layout()
+plt.savefig('graficos/10_analise_clusters.png', dpi=300, bbox_inches='tight')
+plt.close()
+
+# ============================================================================
+# 12. RELATÓRIO FINAL DOS GRÁFICOS
+# ============================================================================
+
+print("\n" + "="*70)
+print("📊 RELATÓRIO DOS GRÁFICOS GERADOS")
+print("="*70)
+
+graficos_gerados = [
+    '01_evolucao_temporal_brasil.png',
+    '02_comparacao_regional.png',
+    '03_ranking_estadual.png',
+    '04_matriz_correlacao_estados.png',
+    '05_comparacao_brasil_mundo.png',
+    '06_ranking_mundial.png',
+    '07_analise_tendencias.png',
+    '08_radar_estados.png',
+    '09_dashboard_interativo.html',
+    '10_analise_clusters.png'
+]
+
+print("\n✅ GRÁFICOS GERADOS COM SUCESSO:")
+for i, nome in enumerate(graficos_gerados, 1):
+    print(f"  {i}. graficos/{nome}")
+
+print("\n📂 Todos os gráficos estão na pasta 'graficos/'")
+print("🌐 O dashboard interativo pode ser aberto em qualquer navegador")
+print("\n" + "="*70)
+print("🎯 ANÁLISE GRÁFICA COMPLETA FINALIZADA!")
+print("="*70)
